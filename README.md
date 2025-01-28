@@ -62,7 +62,7 @@ The selection was justified based on their strengths in handling complex data re
 
 ---
 
-## **Conclusion and Recommendations**
+
 
 ### **Discussion & Insights**
 The analysis of global weather patterns highlights significant trends:
@@ -77,7 +77,8 @@ The analysis of global weather patterns highlights significant trends:
 ### **Implications**
 - Seasonal variations influence air quality, with higher particulate matter in winter and increased ozone levels in summer.
 - Industrial areas face worse air pollution, affecting public health.
-
+  
+## **Conclusion and Recommendations**
 ### **Conclusion**
 - Humidity and cloud cover impact temperature retention.
 - Gradient Boosting excels at weather prediction.
