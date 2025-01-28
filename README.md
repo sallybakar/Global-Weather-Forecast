@@ -14,11 +14,10 @@ Weather forecasting relies on understanding global climatic distributions. Analy
 Previous studies emphasize the importance of weather data in predicting agricultural yields, transportation efficiency, and disaster risks. Research highlights global trends of rising temperatures, increasing humidity, and the growing impact of extreme events, driven by climate change.
 
 ---
-
-## **Methodology**
-
 ### **Problem Definition**
 Climate change poses an urgent global challenge, with escalating effects on ecosystems, economies, and human health. Predicting these impacts accurately is critical for effective planning and mitigation. However, climate data is complex, involving multifaceted interactions and long-term trends that make prediction difficult. This project aims to synthesize climate change predictions using machine learning ensemble models, leveraging their ability to manage diverse data sources and enhance predictive accuracy. By analyzing temperature shifts, precipitation patterns, and extreme weather trends, we seek to provide actionable insights that support policy development and sustainable adaptation strategies against climate-related risks.
+
+## **Methodology**
 
 ### **Data Collection**
 - **Sources**: The climate data was obtained from Kaggle.
